@@ -10,3 +10,6 @@ Official website: https://coreyms.com/
 
 # json_ex
 Taken from the course, Learning Python by Joe Martini, this example obtains data from the USGS's official web portal, transforming earthquakes from around the world, and turning it into a readible format.
+Documentation URL: https://docs.python.org/3/library/json.html
+USGS Json URL: http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson
+USGS JSON Documentation: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
