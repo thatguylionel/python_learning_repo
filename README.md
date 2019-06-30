@@ -6,3 +6,7 @@ Off the bat, here is a phenomenal setup video from Corey Schafer, a developer wh
 
 The rest of Corey's Channel is available at this url: https://www.youtube.com/user/schafer5
 Official website: https://coreyms.com/
+
+
+# json_ex
+Taken from the course, Learning Python by Joe Martini, this example obtains data from the USGS's official web portal, transforming earthquakes from around the world, and turning it into a readible format.
