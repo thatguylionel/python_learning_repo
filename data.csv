@@ -1,0 +1,41 @@
+name,ring,quadrant,moved,link
+Docker,OUTER,Bottom Right,none,../docs/docker.md
+Vue.js,THIRD,Top Left,none,../docs/vuejs.md
+Liferay,THIRD,Bottom Right,none,../docs/liferay.md
+Spring Boot,THIRD,Top Left,none,../docs/spring.md
+Nexus,THIRD,Bottom Right,none,../docs/nexus.md
+Oracle Database,THIRD,Top Right,none,../docs/oracledb.md
+Mongo,THIRD,Top Right,none,../docs/mongodb.md
+Elasticsearch/ELK Stack,THIRD,Top Right,none,../docs/elasticsearch.md
+C++,INNER,Top Left,none,../docs/cpp.md
+Java 8,INNER,Top Left,none,../docs/java.md
+Redmine,INNER,Bottom Right,none,../docs/redmine.md
+OpenAPI (Swagger),INNER,Top Left,none,../docs/openapi.md
+jUnit,INNER,Top Left,none,../docs/junit.md
+Visual Studio 2019,INNER,Bottom Right,none,../docs/visualstudio.md
+Eclipse,INNER,Bottom Right,none,../docs/eclipse.md
+IntelliJ,INNER,Bottom Right,none,../docs/intellij.md
+Apache Directory Studio,INNER,Bottom Right,none,../docs/apachedirectory.md
+Microsoft Active Directory,INNER,Bottom Right,none,../docs/microsoftad.md
+Gitea,INNER,Bottom Right,none,../docs/gitea.md
+Microservices,INNER,Top Left,none,../docs/microservices.md
+Agile,INNER,Top Left,none,../docs/agile.md
+Kanban,INNER,Top Left,none,../docs/kanban.md
+Xamarin ,INNER,Bottom Right,none,../docs/xamarin.md
+Wildfly V 10.1,INNER,Bottom Left,none,../docs/wildfly.md
+Wildfly V 13,INNER,Bottom Left,none,../docs/wildfly.md
+Firebase,INNER,Bottom Right,none,../docs/firebase.md
+Apache NiFi,INNER,Bottom Right,none,../docs/apachenifi.md
+C# Libraries,INNER,Bottom Right,none,../docs/csharp.md
+Map & Guide,INNER,Bottom Right,none,../docs/mapguide.md
+ELO (Document Management),INNER,Bottom Right,none,../docs/elo.md
+Lobster,INNER,Bottom Right,none,../docs/lobster.md
+JasperReports,INNER,Bottom Right,none,../docs/jasperreports.md
+Crystal Reports,INNER,Bottom Right,none,../docs/crystalreports.md
+Apache Maven,INNER,Bottom Right,none,../docs/apachemaven.md
+Big Data,INNER,Top Right,none,../docs/bigdata.md
+Artificial Intelligence,INNER,Bottom Left,none,../docs/ai.md
+RxJava,INNER,Top Left,none,../docs/rxjava.md
+Kotlin,INNER,Top Left,none,../docs/kotlin.md
+NPM,INNER,Top Left,none,../docs/npm.md
+Microsoft SQL,INNER,Top Right,none,../docs/mssql.md
